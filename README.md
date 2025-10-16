@@ -77,6 +77,19 @@ Kopiera kod
 
 Add your `.drawio` file or exported PNG here once created.
 
+
+## 🗓️ Project Timeline & History
+
+- **Lab design & experiments** — Mar 2025 – Sep 2025  
+  Built VLAN variants, tested inter-VLAN routing, and AD/DNS across subnets.
+
+- **Diagram & addressing plan** — Oct 2025  
+  Created draw.io topology and documented port/VLAN mapping for reproducible builds.
+
+- **Current state** — Ongoing  
+  Exporting PNGs, adding port-level notes and sample configs for interview walk-throughs.
+
+
 ---
 
 ## 🪪 License
